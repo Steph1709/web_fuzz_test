@@ -10,11 +10,6 @@
       "source": "/login",
       "destination": "/index.html",
       "permanent": true
-    },
-    {
-      "source": "/cpanel",
-      "destination": "/admin",
-      "permanent": true
     }
   ]
 }
